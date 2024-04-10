@@ -10,13 +10,14 @@
       <url>https://cf-cdn.noice.com/?image=https://media-cdn.gcp.prd.noice.com/channel/channel_asset_type_logo/cc5cc029-b2fc-4cbb-a164-9c161ab7dfa5/b08e9234-ff80-445c-9950-7602eec49d41.png?v=1711697878&amp;width=100&amp;quality=high</url>
     </image>
     <item>
-        <guid>5</guid>
-        <title>BondeChipmunk just went live on Noice!</title>
+        <title>BondeChipmunk just went live!</title>
         <link>http://www.noice.com/blondechipmunk</link>
-       <description><![CDATA[SUB BUNNY WEEK!🏆]]></description>
-        <media:thumbnail height="720" url="https://cf-cdn.noice.com/?image=https://media-cdn.gcp.prd.noice.com/channel/channel_asset_type_banner/cc5cc029-b2fc-4cbb-a164-9c161ab7dfa5/909038cb-4d36-4342-8204-609f0fb3fd17.png?v=1711697878&amp;width=1280&amp;quality=high" width="1280"/>
+        <description><![CDATA[SUB BUNNY WEEK!🏆]]></description>
+        <media:content url="http://www.noice.com/images/channel-banner.jpg" medium="image" />
+        <media:thumbnail url="https://cf-cdn.noice.com/?image=https://media-cdn.gcp.prd.noice.com/channel/channel_asset_type_banner/cc5cc029-b2fc-4cbb-a164-9c161ab7dfa5/909038cb-4d36-4342-8204-609f0fb3fd17.png?v=1711697878&amp;width=1280&amp;quality=high" />
         <pubDate>Wed, 10 Apr 2024 09:10:00 +0000</pubDate>
         <author>Noice</author>
+        <guid>5</guid>
     </item>
     <!-- Add more items here for more channels -->
 </channel>
