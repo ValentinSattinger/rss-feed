@@ -4,11 +4,6 @@
     <title>Noice Live Notification</title>
     <link>http://www.noice.com/</link>
     <description>This feed notifies you when channels go live. Go to <href>https://noice.com/blondechipmunk</href></description>
-    <image>
-      <link>https://www.noice.com/blondechipmunk</link>
-      <title>Noice</title>
-      <url>https://cf-cdn.noice.com/?image=https://media-cdn.gcp.prd.noice.com/channel/channel_asset_type_logo/cc5cc029-b2fc-4cbb-a164-9c161ab7dfa5/b08e9234-ff80-445c-9950-7602eec49d41.png?v=1711697878&amp;width=100&amp;quality=high</url>
-    </image>
     <item>
         <title>BondeChipmunk just went live!</title>
         <link>http://www.noice.com/blondechipmunk</link>
