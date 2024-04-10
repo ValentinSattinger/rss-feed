@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-    <title>Channel Live Notifications</title>
+    <title>Noice Live Notifications</title>
     <link>http://www.noice.com/</link>
     <description>This feed notifies you when channels go live.</description>
+    <image>
+      <link>https://www.noice.com/blondechipmunk</link>
+      <title>Noice</title>
+      <url>https://cf-cdn.noice.com/?image=https://media-cdn.gcp.prd.noice.com/channel/channel_asset_type_logo/cc5cc029-b2fc-4cbb-a164-9c161ab7dfa5/b08e9234-ff80-445c-9950-7602eec49d41.png?v=1711697878&width=100&quality=high</url>
+    </image>
     <item>
+        <guid>5</guid>
         <title>BondeChipmunk just went live!</title>
         <link>http://www.noice.com/blondechipmunk</link>
         <description>BondeChipmunk is now live on Noice and is streaming exciting games of Fortnite! Come to play the stream!</description>
+        <media:thumbnail height="720" url="https://cf-cdn.noice.com/?image=https://media-cdn.gcp.prd.noice.com/channel/channel_asset_type_banner/cc5cc029-b2fc-4cbb-a164-9c161ab7dfa5/909038cb-4d36-4342-8204-609f0fb3fd17.png?v=1711697878&width=1280&quality=high" width="1280"/>
         <pubDate>Wed, 10 Apr 2024 08:37:00 +0000</pubDate>
-        <guid>4</guid>
+        <author>Noice</author>
     </item>
     <!-- Add more items here for more channels -->
 </channel>
