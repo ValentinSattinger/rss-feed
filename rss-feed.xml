@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <channel>
-    <atom:link href="https://valentinsattinger.github.io/rss-feed/rss-feed.xml" rel="self" type="application/rss+xml" />
-    <title>Noice Live Notification</title>
-    <link>http://www.noice.com/</link>
-    <description>This feed notifies you when channels go live.</description>
-    <item>
-        <title>BondeChipmunk just went live!</title>
-        <link>http://www.noice.com/blondechipmunk</link>
-        <description><![CDATA[SUB BUNNY WEEK!🏆]]></description>
-        <media:content url="http://www.noice.com/images/channel-banner.jpg" medium="image" />
-        <media:thumbnail url="https://cf-cdn.noice.com/?image=https://media-cdn.gcp.prd.noice.com/channel/channel_asset_type_banner/cc5cc029-b2fc-4cbb-a164-9c161ab7dfa5/909038cb-4d36-4342-8204-609f0fb3fd17.png" />
-        <pubDate>Wed, 10 Apr 2024 09:10:00 +0000</pubDate>
-        <author>info@noice.com (Noice)</author>
-        <guid isPermaLink="false">04cee814-e7cf-4b3c-85e5-33d8d9f1c075</guid>
-    </item>
-    <!-- Add more items here for more channels -->
+<title>Live Feed - Valtsu</title>
+<link>https://www.noice.com/valtsu</link>
+<description>The feed notifies you of new content on Valtsu channel.</description>
+<language>en-us</language>
+<copyright>Copyright 2024 Noice</copyright>
+<pubDate>Wed, 17 Apr 2024 09:33:49 +0000</pubDate>
+<lastBuildDate>Wed, 17 Apr 2024 09:33:49 +0000</lastBuildDate>
+<ttl>5</ttl>
+<item>
+<title>Valtsu is streaming Fortnite on Noice now!</title>
+<link>https://www.noice.com/valtsu</link>
+<description>let's test again</description>
+<guid>912f538e-f619-4dd1-b2ec-e34b4532f32c</guid>
+<pubDate>Wed, 17 Apr 2024 09:26:24 +0000</pubDate>
+<media:content url="https://cf-cdn.noice.com/?variant=small-square&image=https://media-cdn.gcp.prd.noice.com/channel/channel_asset_type_logo/f9877ebf-25ae-48a1-babe-bc569b5747a2/d1d883c4-ecc5-4f1c-91bc-e20d140a847f.jpg?v=1713344831" medium="image" height="120" width="120"/>
+<media:thumbnail url="https://cf-cdn.noice.com/?width=500&quality=high&variant=small-square&image=https://media-cdn.gcp.prd.noice.com/channel/stream_thumbnail/52268e46-5439-480d-a15f-b0cb5e141796/ae67b565-082d-4d6a-8f1a-ecebfc47385a.png?v=1711697878" width="500" time="00:02:00"/>
+</item>
 </channel>
 </rss>
