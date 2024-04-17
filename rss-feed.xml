@@ -14,7 +14,7 @@
 <description>let's test again</description>
 <guid>912f538e-f619-4dd1-b2ec-e34b4532f32c</guid>
 <pubDate>Wed, 17 Apr 2024 09:26:24 +0000</pubDate>
-<media:content url="https://cf-cdn.noice.com/?variant=small-square&image=https://media-cdn.gcp.prd.noice.com/channel/channel_asset_type_logo/f9877ebf-25ae-48a1-babe-bc569b5747a2/d1d883c4-ecc5-4f1c-91bc-e20d140a847f.jpg?v=1713344831" type="image/jpeg" medium="image" height="120" width="120"/>
+<media:content url="https://cf-cdn.noice.com/?variant=small-square&image=https://media-cdn.gcp.prd.noice.com/channel/channel_asset_type_logo/f9877ebf-25ae-48a1-babe-bc569b5747a2/d1d883c4-ecc5-4f1c-91bc-e20d140a847f.jpg?v=1713344831" medium="image" height="120" width="120"/>
 <media:thumbnail url="https://cf-cdn.noice.com/?width=500&quality=high&variant=small-square&image=https://media-cdn.gcp.prd.noice.com/channel/stream_thumbnail/52268e46-5439-480d-a15f-b0cb5e141796/ae67b565-082d-4d6a-8f1a-ecebfc47385a.png?v=1711697878" width="500" time="00:02:00"/>
 </item>
 </channel>
